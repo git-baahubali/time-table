@@ -1,3 +1,6 @@
+// DOnot use this component this doenst work properly
+
+
 import React, { useState, useEffect } from 'react';
 
 const currentDate = new Date(); // Create a Date object representing the current date and time

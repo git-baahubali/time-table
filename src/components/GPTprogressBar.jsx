@@ -1,3 +1,7 @@
+//GPT has done a good job but still not enough to work 
+// --------DO NOT USE--------------
+
+
 import React, { useState, useEffect } from 'react';
 
 const GPTprogressBar = ({ startTime, endTime }) => {
